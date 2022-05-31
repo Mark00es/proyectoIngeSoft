@@ -449,6 +449,26 @@ const myArray = [
     "ahílo","ahiló","aísla","aislá","aislé","aísle","aíslo","aisló","aldis","alfil","alfiz","-algia","aliad","alían","aliar","alías","aliás","alias","alíen","aliés",
     "alíes","aligá","aliga","aligo","aligó","alija","alijá","alijé","alije","alijo","alijó","Alina","aliñá","aliña","aliñe","aliñé","aliño","aliñó","alioj","Aliro",
     "alisa","alisá","alisé","alise","aliso","alisó","alita","Alofi","altín","aludí","añila","añilá","añilé","añile","añilo","añiló","apila","apilá","apilé","apile",
-    "apilo","apiló","Arbil","Areli","Ariel","Arlín","asila","asilá","asilé","asile","asilo","asiló","astil","atril","Ávila","axila","badil","baila","bailá","baile"
+    "apilo","apiló","Arbil","Areli","Ariel","Arlín","asila","asilá","asilé","asile","asilo","asiló","astil","atril","Ávila","axila","badil","baila","bailá","baile",
+    "bailé","bailo","bailó","belio","biela","bilis","bilma","bilmá","bilmé","bilme","bilmo","bilmó","birla","birlá","birlé","birle","birlo","birló","bisel","Blida",
+    "blitz","bollí","briol","bulín","bullí","Buril","buril","calía","calió","cáliz","Cáliz","Celia","Chile","chile","cibal","cicla","ciclá","ciclé","cicle","ciclo",
+    "cicló","cielo","Cielo","Cilda","cilio","cilla","-cilla","-cillo","civil","clics","clima","clisa","clisá","clisé","clise","clisó","cliso","colin","cubil","dalia",
+    "Dalia","dátil","débil","decil","dedil","Delhi","Delia","diles","diluí","dócil","dolía","dolió","Dulia","efluí","elegí","Elian","Elías","elida","Élida","elide",
+    "elidí","elido","elige","elija","elijá","elijé","elije","elijo","elijó","Elisa","Elita","eludí","eluía","eluid","eluir","eluís","Elvia","erial","exila","exilá",
+    "exilé","exile","exilo","exiló","fácil","Félix","feliz","Fidel","figle","filad","filan","filar","filas","filás","-́filas","filen","files","filés","filiá","-filia",
+    "filié","filie","filio","filió","filma","filmá","filme","filmé","filmo","filmó","filón","filos","-́filos","final","fiolo","físil","fitol","Flint","flipá","flipa",
+    "flipe","flipé","flipó","flipo","fluía","fluid","fluir","fluís","fluis","folia","foliá","folie","folié","folio","folió","fonil","Forlì","fósil","fulcí","fulgí",
+    "fulia","fulía","fusil","fútil","galio","Genil","gilvo","Gisel","grial","güila","hábil","Helia","helio","henil","hiela","hiele","hielo","hilad","hilan","hilar",
+    "hilas","hilás","Hilda","hilen","hilés","hiles","hilos","Hubli","Huila","ideal","igual","íleon","íleos","ilesa","ileso","Ílici","illas","illón","illos","ilota",
+    "iluda","ilude","iludí","iludo","Iluro","ilusa","iluso","impla","implá","implé","imple","implo","impló","infla","inflá","infle","inflé","inflo","infló","ingle",
+    "Irbil","islam","islas","Itzel","ixtle","Jilin","jipil","Julia","julio","Julio","Keila","kilos","krill","labia","lábil","labio","lacia","lacio","Lahtí","laico",
+    "lambí","lamía","lamió","lápiz","latía","latid","latín","latió","latir","latís","leáis","leéis","leían","leías","leída","leído","Leila","leima","lejía","Lenin",
+    "LGBTI","LGTBI","liaba","liada","liado","liáis","liais","liana","liaos","liará","liara","liaré","liare","liase","líate","liate","liaza","libad","liban","libar",
+    "libas","libás","liben","libes","libés","Libia","libia","libio","libra","librá","Libra","libre","libré","libro","libró","licad","lican","licar","licas","licás",
+    "reilé","reíle","reílo","reiló","releí","riela","rielá","rielé","riele","rielo","rieló","rifle","Rigel","rilad","rilan","rilar","rilás","rilas","rilen","riles",
+    "rilés","rímel","rival","riyal","salía","salid","salió","salir","salís","selfi","senil","sésil","siclo","sigla","siglo","Silas","silba","silbá","silbé","silbe",
+    "silbo","silbó","silfo","silga","silgá","silgo","silgó","silla","silos","símil","solía","suplí","sutil","Talía","talín","talio","talit","tamil","tilas","tildá",
+    "tilda","tilde","tildé","tildó","tildo","tilín","tilla","tillá","tille","tillé","tilló","tillo","tilos","tiple","tolai","tolái","tollí","topil","triel","tulio",
+    "Tulio","tullí","valía","valió","velís","veliz","Vilda","viles","villa","Vilma","Vilna","viola","Viola","violá","violé","viole","violo","violó","viral","viril"
 ]
 export default myArray;
