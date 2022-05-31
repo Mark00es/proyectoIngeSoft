@@ -32,6 +32,16 @@ describe("UCB-Wordle  -> Pista letra en posicion correcta", () => {
     wordle.palabra = "palta";
     expect(wordle.letrasCorectas("peras")).toEqual("p");
   });
+  it("En caso de que la palabra sea 'lerdo' y el intento 'gordo' deberia devoler 'rdo'", () => {
+    const wordle = new Wordle();
+    wordle.palabra = "lerdo";
+    expect(wordle.letrasCorectas("gordo")).toEqual("rdo");
+  });
+  it("En caso de que la palabra sea 'gordo' y el intento 'lerdo' deberia devoler 'rdo'", () => {
+    const wordle = new Wordle();
+    wordle.palabra = "gordo";
+    expect(wordle.letrasCorectas("lerdo")).toEqual("rdo");
+  });
 });
 
 describe("UCB-Wordle  -> Pista letra en posicion incorrecta", () => {  
