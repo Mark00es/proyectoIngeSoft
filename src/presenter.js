@@ -11,8 +11,8 @@ let intentos = 6;
 let contadorEspacios = 1;
 
 document.addEventListener("DOMContentLoaded", () => {
-crearCudrados();
-function crearCudrados(){  
+crearCuadrados();
+function crearCuadrados(){  
   for(let cont = 0; cont < 30; cont ++){
     cuadrado = document.createElement("div");
     cuadrado.classList.add("cuadrado");
