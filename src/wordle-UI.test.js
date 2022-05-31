@@ -1,4 +1,4 @@
-/*import fs from "fs";
+import fs from "fs";
 
 describe("Adivinar Palabra", () => {
   beforeAll(() => {
@@ -6,18 +6,13 @@ describe("Adivinar Palabra", () => {
     require("./presenter.js");
   });  
 
-  it("Si la palabra ingresada es PEINE debe ser recuperada y mostrada en mayusculas", () => {
-    const palabraAdivinar = document.querySelector("#intento");
-    palabraAdivinar.value = "PEINE";
-
+  it("Si la palabra ingresada es PEINE debe ser recuperada y mostrada en mayusculas", () => {    
     const botonAdivinar = document.querySelector("#boton-adivinar");
-    botonAdivinar.click();
-
-    const resultado = document.querySelector("#resultado-div");
-    expect(resultado.innerHTML).toEqual("PEINE");
+    expect(botonAdivinar.value).toEqual("Adivinar");
   });
 
-
+  
+  /*
   it("Si la palabra ingresada es NAIPE debe ser recuperada y mostrada en mayusculas", () => {
     const palabraAdivinar = document.querySelector("#intento");
     palabraAdivinar.value = "NAIPE";
@@ -38,5 +33,5 @@ describe("Adivinar Palabra", () => {
 
     const resultado = document.querySelector("#resultado-div3");
     expect(resultado.innerHTML).toEqual("TORTA");
-  });
-});*/
+  });*/
+});
