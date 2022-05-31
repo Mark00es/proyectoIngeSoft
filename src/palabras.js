@@ -319,7 +319,6 @@ const myArray = [
     "LUJAR","LUJAS","LUJEN","LUJES","LUJOS","LULOS","LULUS","LUMAS","LUMBO","LUMEN","LUMIA","LUNAR","LUNAS","LUNCH","LUNEA","LUNEE","LUNEL","LUNEO","LUNES","LUNFA",
     "LUPAS","LUPIA","LUPUS","LURTE","LUSAS","LUSCA","LUSCO","LUSOS","LUTEA","LUTEO","LUTOS","LUVIA","LUXAD","LUXAN","LUXAR","LUXAS","LUXEN","LUXES","LUYAN","LUYAS",
     "LUYEN","LUYES","LUZCA","LUZCO","LYCRA","MABIS","MABLE","MACAL","MACAN","MACAR","MACAS","MACEA","MACEE","MACEN","MACEO","MACES","MACHA","MACHE","MACHI","MACHO",
- 
     "MACIA","MACIO","MACIS","MACLA","MACON","MACRO","MACUA","MADOR","MADRE","MAEÑA","MAEÑO","MAESA","MAESE","MAESO","MAFIA","MAGAS","NIELE","NIELO","NIETA","NIETO",
     "NIEVA","NIEVE","NIEVO","NIGUA","NILAD","NILON","NIMBA","NIMBE","NIMBO","NIMIA","NIMIO","NINFA","NINFO","NINOT","NIÑAS","NIÑEA","NIÑEE","NIÑEO","NIÑEZ","NIÑOS",
     "NIOTO","NIPAS","NIPIS","NIPON","NIPOS","NIQUI","NISTE","NITOR","NITOS","NITRA","NITRE","NITRO","NIVEA","NIVEL","NIVEO","NIXTE","NOBEL","NOBLE","NOCAS","NOCHE",
@@ -469,6 +468,9 @@ const myArray = [
     "rilés","rímel","rival","riyal","salía","salid","salió","salir","salís","selfi","senil","sésil","siclo","sigla","siglo","Silas","silba","silbá","silbé","silbe",
     "silbo","silbó","silfo","silga","silgá","silgo","silgó","silla","silos","símil","solía","suplí","sutil","Talía","talín","talio","talit","tamil","tilas","tildá",
     "tilda","tilde","tildé","tildó","tildo","tilín","tilla","tillá","tille","tillé","tilló","tillo","tilos","tiple","tolai","tolái","tollí","topil","triel","tulio",
-    "Tulio","tullí","valía","valió","velís","veliz","Vilda","viles","villa","Vilma","Vilna","viola","Viola","violá","violé","viole","violo","violó","viral","viril"
+    "Tulio","tullí","valía","valió","velís","veliz","Vilda","viles","villa","Vilma","Vilna","viola","Viola","violá","violé","viole","violo","violó","viral","viril",
+    "GARLE","GARLO","GARMA","GAROS","GARPA","GARPE","GARPO","GARRA","MAGIA","MAGIE","MAGIN","MAGIO","MAGMA","MAGNA","MAGNO","MAGOS","MAGRA","MAGRO","MAGUE","MAHON",
+    "MAIDO","MAJAD","MAJAL","MAJAN","MAJAR","MAJAS","MAJEA","MAJEE","MAJEN","MAJEO","MAJES","MAJOS","MALAR","MALAS","MALEA","MALEE","MALEO","MALES","MALIS","MALLA",
+    "MALLE","MALLO","MALON","MALOS","MALTA","MALVA","MALVE","MALVO"
 ]
 export default myArray;
