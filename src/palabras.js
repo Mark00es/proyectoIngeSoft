@@ -444,6 +444,11 @@ const myArray = [
     "ZAZAS","ZAZOS","ZEBRA","ZEDAS","ZEGRI","ZEINA","ZEJEL","ZENDA","ZENDO","ZENES","ZENIT","ZETAS","ZINCS","ZOCAD","ZOCAN","ZOCAR","ZOCAS","ZOCLO","ZOCOS","ZOFRA",
     "ZOILO","ZOIZO","ZOLLE","ZOMAS","ZOMBI","ZOMOS","ZOMPA","ZOMPO","ZONAL","ZONAS","ZONDA","ZONTA","ZONTO","ZONZA","ZONZO","ZOPAS","ZOPES","ZOPOS","ZOQUE","ZORRA",
     "ZORRO","ZOTAL","ZOTES","ZOTOL","ZUAVO","ZUBIA","ZUDAS","ZUECA","ZUECO","ZUELA","ZUIZA","ZULLA","ZULLE","ZULLO","ZULUS","ZUMAS","ZUMBA","ZUMBE","ZUMBO","ZUMOS",
-    "ZUNAS","ZUNZA","ZUÑAN","ZUÑAS","ZUÑEN","ZUÑES","ZUÑIA","ZUÑID","ZUÑIR","ZUÑIS","ZUÑOS","ZUPIA","ZURAS","ZURBA","ZURCE","ZURCI","ZURDA","ZURDE","ZURDI","ZURDO"
+    "ZUNAS","ZUNZA","ZUÑAN","ZUÑAS","ZUÑEN","ZUÑES","ZUÑIA","ZUÑID","ZUÑIR","ZUÑIS","ZUÑOS","ZUPIA","ZURAS","ZURBA","ZURCE","ZURCI","ZURDA","ZURDE","ZURDI","ZURDO",
+    "abluí","abolí","abril","acial","acilo","Adiel","Adila","afilá","afila","áfila","afilé","afile","afilo","áfilo","afiló","afluí","ahíla","ahilá","ahilé","ahíle",
+    "ahílo","ahiló","aísla","aislá","aislé","aísle","aíslo","aisló","aldis","alfil","alfiz","-algia","aliad","alían","aliar","alías","aliás","alias","alíen","aliés",
+    "alíes","aligá","aliga","aligo","aligó","alija","alijá","alijé","alije","alijo","alijó","Alina","aliñá","aliña","aliñe","aliñé","aliño","aliñó","alioj","Aliro",
+    "alisa","alisá","alisé","alise","aliso","alisó","alita","Alofi","altín","aludí","añila","añilá","añilé","añile","añilo","añiló","apila","apilá","apilé","apile",
+    "apilo","apiló","Arbil","Areli","Ariel","Arlín","asila","asilá","asilé","asile","asilo","asiló","astil","atril","Ávila","axila","badil","baila","bailá","baile"
 ]
 export default myArray;
